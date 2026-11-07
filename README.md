@@ -16,7 +16,6 @@ Hardware tinkerer, IoT enthusiast, and software developer. Building self-hosted 
 * **[fnirsi-firmware-tools](https://github.com/Daddelgreis74/fnirsi-firmware-tools)** — Reverse engineering toolkit, German localization patcher & boot logo injector for FNIRSI devices (DWS-200, IPS-3608, HS-02A).
 * **[fnirsi-ips3608-studio](https://github.com/Daddelgreis74/fnirsi-ips3608-studio)** — Professional Windows Desktop Studio & Control Suite for FNIRSI IPS3608 Power Supply.
 * **[fnirsi-2c23t-studio](https://github.com/Daddelgreis74/fnirsi-2c23t-studio)** — Desktop Studio & Control Suite for the FNIRSI 2C23T Handheld Oscilloscope.
-* **[fnirsi-dws200-studio](https://github.com/Daddelgreis74/fnirsi-dws200-studio)** — Desktop Studio for FNIRSI DWS-200 Precision Soldering Station.
 * **[OpenScope-2C23T](https://github.com/Daddelgreis74/OpenScope-2C23T)** — Open-source custom firmware for the FNIRSI 2C23T handheld oscilloscope/multimeter.
 
 ---
